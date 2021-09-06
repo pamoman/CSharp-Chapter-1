@@ -6,7 +6,7 @@ namespace CSharp_Chapter_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Chapter 1");
         }
     }
 }
